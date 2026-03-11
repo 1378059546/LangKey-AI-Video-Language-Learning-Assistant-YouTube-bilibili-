@@ -1,8 +1,9 @@
 # LangKey-AI-Video-Language-Learning-Assistant-YouTube-bilibili- 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMs2S5CVDaA?si=Lf9WUsQhhQKKj4Uq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+[![LangKey Demo Video](https://img.youtube.com/vi/eMs2S5CVDaA/maxresdefault.jpg)](https://www.youtube.com/watch?v=eMs2S5CVDaA)
 
+> 💡 **Tip**: Click the image above to watch the interactive demo on YouTube!
 Highly recommended: A powerful interactive language learning extension for YouTube and Bilibili. This tool is a game-changer for language learners, making video-based learning effortless and engaging.
 
 It features five distinct interactive modes:
